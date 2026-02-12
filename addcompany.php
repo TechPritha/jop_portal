@@ -113,4 +113,5 @@ if(isset($_POST)) {
 	//redirect them back to register page if they didn't click register button
 	header("Location: register-company.php");
 	exit();
+	exit();
 }

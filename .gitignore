@@ -1,0 +1,9 @@
+# Ignore image uploads
+uploads/
+images/
+assets/images/
+
+# Ignore all image files
+*.jpg
+*.png
+*.jpeg
